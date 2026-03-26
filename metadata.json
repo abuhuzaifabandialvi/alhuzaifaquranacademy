@@ -1,0 +1,5 @@
+{
+  "name": "Al-Huzaifa Academy",
+  "description": "A digital sanctuary for Islamic education, featuring student dashboards, parent portals, and live class management.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
